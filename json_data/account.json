@@ -1,0 +1,10 @@
+{
+    "account": {
+        "user": "Test_TT.User",
+        "password": "edcbaEDCBA4321"
+    },
+    "domain_name": {
+        "at": "@",
+        "email": "example.com"
+    }
+}
